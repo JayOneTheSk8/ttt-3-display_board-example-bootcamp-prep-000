@@ -1,4 +1,4 @@
-def tic_tac_toe
+def display_board
   row = "   |   |   "
   divide = "-----------"
   puts row
